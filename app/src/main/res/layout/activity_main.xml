@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="128dp"
             android:gravity="center"
-            android:text="TestTest"
+            android:text="Version Control Testing"
             android:textSize="18sp" />
     </LinearLayout>
 
